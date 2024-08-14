@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|d:\\learning arena\\projects\\.net\\firstproject\\backend\\backend\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|solutionrelative:backend\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|d:\\learning arena\\projects\\.net\\firstproject\\backend\\backend\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|solutionrelative:backend\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|d:\\learning arena\\projects\\.net\\firstproject\\backend\\backend\\controllers\\stockcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|solutionrelative:backend\\controllers\\stockcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|d:\\learning arena\\projects\\.net\\firstproject\\backend\\backend\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|solutionrelative:backend\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|d:\\learning arena\\projects\\.net\\firstproject\\backend\\backend\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|solutionrelative:backend\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|d:\\learning arena\\projects\\.net\\firstproject\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E262280-16E4-4A49-992C-0577DEE2720E}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStockRequestDto.cs",
+              "DocumentMoniker": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeToolTip": "backend\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:15:00.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateStockRequestDto.cs",
+              "DocumentMoniker": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "backend\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeToolTip": "backend\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:49:16.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockMappers.cs",
+              "DocumentMoniker": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Mappers\\StockMappers.cs",
+              "RelativeDocumentMoniker": "backend\\Mappers\\StockMappers.cs",
+              "ToolTip": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Mappers\\StockMappers.cs",
+              "RelativeToolTip": "backend\\Mappers\\StockMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:24:52.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Model\\Stock.cs",
+              "RelativeDocumentMoniker": "backend\\Model\\Stock.cs",
+              "ToolTip": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Model\\Stock.cs",
+              "RelativeToolTip": "backend\\Model\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:20:36.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:13:19.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockContoller.cs",
+              "DocumentMoniker": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Controllers\\StockContoller.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\StockContoller.cs",
+              "ToolTip": "D:\\Learning Arena\\Projects\\.NET\\firstProject\\backend\\backend\\Controllers\\StockContoller.cs",
+              "RelativeToolTip": "backend\\Controllers\\StockContoller.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:54:57.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
